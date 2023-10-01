@@ -10,6 +10,8 @@ Hier können Sie eine detailliertere Beschreibung Ihres Projekts eingeben, warum
 
 Beschreiben Sie die Schritte zur Installation Ihres Projekts. Zum Beispiel:
 
+arbeiten im Feature-Branch 
+
 
 
 Eine Änderung auf dem Master Branche
